@@ -152,7 +152,7 @@ if df is not None:
     st.download_button(
         "⬇️ Download Excel File",
         data=output,
-        file_name="LAURIE_ANACTA_NURSING_PROFESSIONAL_CORPORATION.xlsx",
+        file_name="Auto_categorised_file_Laurie_Anacta_Nursing_Professional_Corporation.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
 
